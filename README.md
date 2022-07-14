@@ -14,6 +14,8 @@ Flavors of Linux
 Linux has  many  distributions  and versions of the operating system. Some of the widely used and famous  flavors of linux are Ubuntu, Fedora, Mint, Debian, openSUSE etc.
 
 Linux File Hierarchy Structure
+
+<img src = "linux file structure-1.jpg">
 The Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS) defines the directory structure and directory contents in Unix-like operating systems.
 In the FHS, all files and directories appear under the root directory /, even if they are stored on different physical or virtual devices.
  – The Root Directory
